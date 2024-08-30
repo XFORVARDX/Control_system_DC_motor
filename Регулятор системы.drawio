@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-08-30T08:10:11.834Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" etag="sx5ZnRF_sxXU2pubb132" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-30T08:11:49.581Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" etag="_Dia4rJr1RW2V4TBR4oJ" version="24.4.13" type="github">
   <diagram name="Страница — 1" id="W8DhVaYcGhDZfKBGQbMc">
     <mxGraphModel dx="1179" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,18 +42,6 @@
         </mxCell>
         <mxCell id="TaUqz_f2WRjTD8NGO_VL-11" value="&lt;h1&gt;&lt;font style=&quot;font-size: 34px;&quot;&gt;+&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="235" y="130" width="40" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="TaUqz_f2WRjTD8NGO_VL-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="490" as="sourcePoint" />
-            <mxPoint x="440" y="440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TaUqz_f2WRjTD8NGO_VL-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="490" as="sourcePoint" />
-            <mxPoint x="440" y="440" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="TaUqz_f2WRjTD8NGO_VL-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="TaUqz_f2WRjTD8NGO_VL-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
